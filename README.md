@@ -6,6 +6,7 @@ Our friend also mentions another sketch TFT_Flashjpg.
 It seems like a good idea. But there is a conflict with the type of variable used in the online image converter and this sketch. So let's revive old memes using the TTGO T-Display.
 
 https://youtu.be/JW7yV1dwZmw
+![TTGO T-Display Bringing Old Memes Back to Life](https://github.com/ShotokuTech/TTGO_T-Display_Memes/blob/main/thumb.jpg)
 
 Avidemux download
 http://avidemux.sourceforge.net/download.html
