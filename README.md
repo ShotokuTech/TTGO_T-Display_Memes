@@ -10,8 +10,10 @@ https://youtu.be/JW7yV1dwZmw
 
 Avidemux download
 http://avidemux.sourceforge.net/download.html
+
 IrfanView download
 https://www.irfanview.com/main_download_engl.htm
+
 Link to the image converter used here:
 http://www.rinkydinkelectronics.com/t_imageconverter565.php
 
